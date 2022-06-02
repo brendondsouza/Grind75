@@ -20,10 +20,16 @@
 -   [ ] [Recursion](#recursion) (3)
 -   [ ] [Matrix](#matrix) (1)
 
-### Array
+### WEEK 1
 
 -   [x] [Two Sum](https://leetcode.com/problems/two-sum): [Solution](/Array/1-TwoSum)
+-   [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses): [Solution](/Stack/20-ValidParentheses/)
+-   [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists): [Solution](/Linked%20List/21-MergeTwoSortedLists/)
 -   [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock): [Solution](/Array/121-BestTimetoBuyandSellStock/)
+-   -   [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
+-   -   [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
+-   
+
 -   [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate): [Solution](/Array/217-ContainsDuplicate/)
 -   [ ] [Majority Element](https://leetcode.com/problems/majority-element): [Solution](/Array/169-MajorityElement/)
 -   [x] [Insert Interval](https://leetcode.com/problems/insert-interval): [Solution](/Array/57-InsertInterval/)
@@ -38,7 +44,7 @@
 
 ### Stack
 
--   [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses): [Solution](/Stack/20-ValidParentheses/)
+
 -   [x] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks): [Solution](/Stack/232-ImplementQueueusingStacks/)
 -   [x] [Min Stack](https://leetcode.com/problems/min-stack): [Solution](/Stack/232-ImplementQueueusingStacks/): [Solution](/Stack/155-MinStack/)
 -   [x] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation): [Solution](/Stack/150-EvaluateReversePolishNotation/)
@@ -50,7 +56,7 @@
 
 ### Linked List
 
--   [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists): [Solution](/Linked%20List/21-MergeTwoSortedLists/)
+
 -   [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle): [Solution](/Linked%20List/141-LinkedListCycle/)
 -   [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list): [Solution](/Linked%20List/206-Reverse-Linked-List/)
 -   [x] [Middle of the Linked List](https://leetcode.com/problems/remove-nth-node-from-end-of-list): [Solution](/Linked%20List/876-MiddleoftheLinkedList/)
@@ -60,7 +66,7 @@
 
 ### String
 
--   [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
+
 -   [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram)
 -   [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome)
 -   [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
@@ -73,7 +79,7 @@
 
 ### Binary Tree
 
--   [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
+
 -   [ ] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
 -   [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
 -   [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
