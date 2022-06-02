@@ -24,8 +24,8 @@
 
 -   [x] [Two Sum](https://leetcode.com/problems/two-sum): [Solution](/Array/1-TwoSum)
 -   [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock): [Solution](/Array/121-BestTimetoBuyandSellStock/)
--   [] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate): [Solution](/Array/217-ContainsDuplicate/)
--   [] [Majority Element](https://leetcode.com/problems/majority-element): [Solution](/Array/169-MajorityElement/)
+-   [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate): [Solution](/Array/217-ContainsDuplicate/)
+-   [ ] [Majority Element](https://leetcode.com/problems/majority-element): [Solution](/Array/169-MajorityElement/)
 -   [x] [Insert Interval](https://leetcode.com/problems/insert-interval): [Solution](/Array/57-InsertInterval/)
 -   [x] [3Sum](https://leetcode.com/problems/3sum/): [Solution](/Array/15-3Sum/)
 -   [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self): [Solution](/Array/238-ProductofArrayExceptSelf/)
