@@ -26,8 +26,8 @@
 -   [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses): [Solution](/Stack/20-ValidParentheses/)
 -   [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists): [Solution](/Linked%20List/21-MergeTwoSortedLists/)
 -   [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock): [Solution](/Array/121-BestTimetoBuyandSellStock/)
--   -   [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
--   -   [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
+-   [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
+-   [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 -   
 
 -   [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate): [Solution](/Array/217-ContainsDuplicate/)
