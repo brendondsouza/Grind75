@@ -1,5 +1,5 @@
 /* TITLE
-Two Sum
+1. Two Sum
 
 URL
 https://leetcode.com/problems/two-sum/
