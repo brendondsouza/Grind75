@@ -1,173 +1,82 @@
-# Grind 75
+# Grind 75: JavaScript
 
 > This repository is a software engineer interview prepration, which provides solutions for 75 leetcode questions in JavaScript. The original post can be found on [here](https://www.techinterviewhandbook.org/grind75?grouping=topics&order=difficulty&hours=8). Questions can be categorized into 15 cagtegories, including Array, Stack, Linked List, String, Binary Tree, Binary Search, Graph, Dynamic Programming, Binary Search Tree, Hash Table, Binary, Heap, Trie, Recursion, and Matrix.
 
-##### Problem Solved: 22 / 75
+Grind75 Solutions in JavaScript with comments explaining my thought process and the code, links to the original problem, the instructions, and some test cases
 
--   [x] [Array](#array) (11)
--   [x] [Stack](#stack) (7)
--   [ ] [Linked-List](#linked-list) (5)
--   [ ] [String](#string) (8)
--   [ ] [Binary Tree](#binary-tree) (9)
--   [ ] [Binary Search](#binary-search) (5)
--   [ ] [Graph](#graph) (10)
--   [ ] [Dynamic Programming](#dynamic-programming) (5)
--   [ ] [Binary Search Tree](#binary-search-tree) (3)
--   [ ] [Hash Table](#hash-table) (1)
--   [ ] [Binary](#binary) (1)
--   [ ] [Heap](#heap) (4)
--   [ ] [Trie](#trie) (2)
--   [ ] [Recursion](#recursion) (3)
--   [ ] [Matrix](#matrix) (1)
-
-### WEEK 1
-
--   [x] [Two Sum](https://leetcode.com/problems/two-sum): [Solution](/Array/1-TwoSum)
--   [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses): [Solution](/Stack/20-ValidParentheses/)
--   [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists): [Solution](/Linked%20List/21-MergeTwoSortedLists/)
--   [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock): [Solution](/Array/121-BestTimetoBuyandSellStock/)
--   [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
--   [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
--   
-
--   [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate): [Solution](/Array/217-ContainsDuplicate/)
--   [ ] [Majority Element](https://leetcode.com/problems/majority-element): [Solution](/Array/169-MajorityElement/)
--   [x] [Insert Interval](https://leetcode.com/problems/insert-interval): [Solution](/Array/57-InsertInterval/)
--   [x] [3Sum](https://leetcode.com/problems/3sum/): [Solution](/Array/15-3Sum/)
--   [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self): [Solution](/Array/238-ProductofArrayExceptSelf/)
--   [x] [Combination Sum](https://leetcode.com/problems/combination-sum): [Solution](/Array/39-CombinationSum/)
--   [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals): [Solution](/Array/56-MergeIntervals/)
--   [x] [Sort Colors](https://leetcode.com/problems/sort-colors): [Solution](/Array/75-SortColors/): [Solution](/Array/75-SortColors/)
--   [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water): [Solution](/Array/11-ContainerWithMostWater/)
-
----
-
-### Stack
-
-
--   [x] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks): [Solution](/Stack/232-ImplementQueueusingStacks/)
--   [x] [Min Stack](https://leetcode.com/problems/min-stack): [Solution](/Stack/232-ImplementQueueusingStacks/): [Solution](/Stack/155-MinStack/)
--   [x] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation): [Solution](/Stack/150-EvaluateReversePolishNotation/)
--   [x] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water): [Solution](/Stack/42-TrappingRainWater/)
--   [x] [Basic Calculator](https://leetcode.com/problems/basic-calculator): [Solution](/Stack/224-BasicCalculator/)
--   [x] [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram): [Solution](/Stack/84-LargestRectangleinHistogram/)
-
----
-
-### Linked List
-
-
--   [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle): [Solution](/Linked%20List/141-LinkedListCycle/)
--   [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list): [Solution](/Linked%20List/206-Reverse-Linked-List/)
--   [x] [Middle of the Linked List](https://leetcode.com/problems/remove-nth-node-from-end-of-list): [Solution](/Linked%20List/876-MiddleoftheLinkedList/)
--   [ ] [LRU Cache](https://leetcode.com/problems/reorder-list)
-
----
-
-### String
-
-
--   [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram)
--   [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome)
--   [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
--   [ ] [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)
--   [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
--   [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)
--   [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)
-
----
-
-### Binary Tree
-
-
--   [ ] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
--   [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
--   [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
--   [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
--   [ ] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
--   [ ] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)
--   [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
--   [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
-
----
-
-### Binary Search
-
--   [ ] [Binary Search](https://leetcode.com/problems/binary-search)
--   [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version)
--   [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
--   [ ] [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store)
--   [ ] [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)
-
----
-
-### Graph
-
--   [ ] [Flood Fill](https://leetcode.com/problems/flood-fill)
--   [ ] [01 Matrix](https://leetcode.com/problems/01-matrix)
--   [ ] [Clone Graph](https://leetcode.com/problems/clone-graph)
--   [ ] [Course Schedule](https://leetcode.com/problems/course-schedule)
--   [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands)
--   [ ] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges)
--   [ ] [Accounts Merge](https://leetcode.com/problems/accounts-merge)
--   [ ] [Word Search](https://leetcode.com/problems/word-search)
--   [ ] [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees)
--   [ ] [Word Ladder](https://leetcode.com/problems/word-ladder)
-
----
-
-### Dynamic Programming
-
--   [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
--   [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
--   [ ] [Coin Change](https://leetcode.com/problems/coin-change)
--   [ ] [Partition Equal Subset Sum](https://leetcode.com/problems/maximum-subarray)
--   [ ] [Unique Paths](https://leetcode.com/problems/unique-paths)
-
----
-
-### Binart Search Tree
-
--   [ ] [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
--   [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
--   [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
-
----
-
-### Hash Table
-
--   [ ] [Ransom Note](https://leetcode.com/problems/ransom-note)
-
----
-
-### Binary
-
--   [ ] [Add Binary](https://leetcode.com/problems/add-binary)
-
----
-
-### Heap
-
--   [ ] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin)
--   [ ] [Task Scheduler](https://leetcode.com/problems/task-scheduler)
--   [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
--   [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-
-### Trie
-
--   [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)
--   [ ] [Word Break](https://leetcode.com/problems/word-break)
-
----
-
-### Recursion
-
--   [ ] [Permutations](https://leetcode.com/problems/permutations)
--   [ ] [Subsets](https://leetcode.com/problems/subsets)
--   [ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
-
----
-
-### Matrix
-
--   [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)
+## The problems
+1. [Two Sum]
+2. [Valid Parentheses]
+3. [Merge Two Sorted Lists]
+4. Best Time to Buy and Sell Stock
+5. Valid Palindrome
+6. Invert Binary Tree
+7. Valid Anagram
+8. Binary Search
+9. Flood Fill
+10. Maximum Subarray
+11. Lowest Common Ancestor of a Binary Search Tree
+12. Balanced Binary Tree
+13. Linked List Cycle
+14. Implement Queue using Stacks
+15. First Bad Version
+16. Ransom Note
+17. Climbing Stairs
+18. Longest Palindrome
+19. Min Stack
+20. Reverse Linked List
+21. Majority Element
+22. Add Binary
+23. Diameter of Binary Tree
+24. Middle of the Linked List
+25. Maximum Depth of Binary Tree
+26. Contains Duplicate
+27. Insert Interval
+28. 01 Matrix
+29. K Closest Points to Origin
+30. Longest Substring Without Repeating Characters
+31. 3Sum
+32. Binary Tree Level Order Traversal
+33. Clone Graph
+34. Evaluate Reverse Polish Notation
+35. Course Schedule
+36. Implement Trie (Prefix Tree)
+37. Coin Change
+38. Product of Array Except Self
+39. Validate Binary Search Tree
+40. Number of Islands
+41. Rotting Oranges
+42. Search in Rotated Sorted Array
+43. Combination Sum
+44. Permutations
+45. Merge Intervals
+46. Lowest Common Ancestor of a Binary Tree
+47. Time Based Key-Value Store
+48. Accounts Merge
+49. Sort Colors
+50. Word Break
+51. Partition Equal Subset Sum
+52. String to Integer (atoi)
+53. Spiral Matrix
+54. Subsets
+55. Binary Tree Right Side View
+56. Longest Palindromic Substring
+57. Unique Paths
+58. Construct Binary Tree from Preorder and Inorder Traversal
+59. Container With Most Water
+60. Letter Combinations of a Phone Number
+61. Word Search
+62. Find All Anagrams in a String
+63. Minimum Height Trees
+64. Task Scheduler
+65. LRU Cache
+66. Kth Smallest Element in a BST
+67. Minimum Window Substring
+68. Serialize and Deserialize Binary Tree
+69. Trapping Rain Water
+70. Find Median from Data Stream
+71. Word Ladder
+72. Basic Calculator
+73. Maximum Profit in Job Scheduling
+74. Merge k Sorted Lists
+75. Largest Rectangle in Histogram
