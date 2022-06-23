@@ -2,7 +2,7 @@
 21. Merge Two Sorted Lists
 
 URL
-https://leetcode.com/problems/two-sum/
+https://leetcode.com/problems/merge-two-sorted-lists/
 
 INSTRUCTIONS
 You are given the heads of two sorted linked lists list1 and list2.
