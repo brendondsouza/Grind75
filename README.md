@@ -5,10 +5,10 @@
 Grind75 Solutions in JavaScript with comments explaining my thought process and the code, links to the original problem, the instructions, and some test cases
 
 ## The problems
-1. [Two Sum]
-2. [Valid Parentheses]
-3. [Merge Two Sorted Lists]
-4. Best Time to Buy and Sell Stock
+1. [Two Sum](https://github.com/brendondsouza/Grind75/blob/main/two-sum.js)
+2. [Valid Parentheses](https://github.com/brendondsouza/Grind75/blob/main/valid-parenthesis.js)
+3. [Merge Two Sorted Lists](https://github.com/brendondsouza/Grind75/blob/main/merge-two-sorted-lists.js)
+4. [Best Time to Buy and Sell Stock](https://github.com/brendondsouza/Grind75/blob/main/best-time-to-buy-and-sell-stock.js)
 5. Valid Palindrome
 6. Invert Binary Tree
 7. Valid Anagram
