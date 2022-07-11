@@ -29,7 +29,7 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 22. [Add Binary]
 23. [Diameter of Binary Tree]
 24. [Middle of the Linked List]
-25. [Maximum Depth of Binary Tree]
+25. [Maximum Depth of Binary Tree](https://github.com/brendondsouza/Grind75/blob/main/maximum-depth-of-binary-tree.js)
 26. [Contains Duplicate]
 27. [Insert Interval]
 28. [01 Matrix]
