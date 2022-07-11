@@ -1,5 +1,7 @@
 # Grind 75: JavaScript
 
+[My LeetCode profile](https://leetcode.com/brendondsouza/)
+
 > This repository is a software engineer interview prepration, which provides solutions for 75 leetcode questions in JavaScript. The original post can be found on [here](https://www.techinterviewhandbook.org/grind75?grouping=topics&order=difficulty&hours=8). Questions can be categorized into 15 cagtegories, including Array, Stack, Linked List, String, Binary Tree, Binary Search, Graph, Dynamic Programming, Binary Search Tree, Hash Table, Binary, Heap, Trie, Recursion, and Matrix.
 
 Grind75 Solutions in JavaScript with comments explaining my thought process and the code, links to the original problem, the instructions, and some test cases
