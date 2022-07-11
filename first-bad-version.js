@@ -40,6 +40,8 @@ Output: 1
  * };
  */
 
+//carry out binary search. get the middle number and test. if false the set left to middle + 1 to start check from next number. If true that means the middle is bad version and set right to middle as we know that since that one is bad it could either be the first bad or there could be a previous bad. This continues till left is not smaller than right at which point the leftmost is the first bad version 
+
 /**
  * @param {function} isBadVersion()
  * @return {function}
