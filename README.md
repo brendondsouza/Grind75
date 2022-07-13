@@ -25,19 +25,18 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 16. [Ransom Note](https://github.com/brendondsouza/Grind75/blob/main/ransom-note.js)
 17. [Climbing Stairs](https://github.com/brendondsouza/Grind75/blob/main/climbing-stairs.js)
 18. [Longest Palindrome](https://github.com/brendondsouza/Grind75/blob/main/longest-palindrome.js)
-19. [Min Stack]
-20. [Reverse Linked List]
-21. [Majority Element]
-22. [Add Binary]
-23. [Diameter of Binary Tree]
-24. [Middle of the Linked List]
-25. [Maximum Depth of Binary Tree](https://github.com/brendondsouza/Grind75/blob/main/maximum-depth-of-binary-tree.js)
-26. [Contains Duplicate]
-27. [Insert Interval]
-28. [01 Matrix]
-29. [K Closest Points to Origin]
-30. [Longest Substring Without Repeating Characters]
-31. [3Sum]
+19. [Reverse Linked List](https://github.com/brendondsouza/Grind75/blob/main/reverse-linked-list.js)
+20. [Majority Element](https://github.com/brendondsouza/Grind75/blob/main/majority-element.js)
+21. [Add Binary]
+22. [Diameter of Binary Tree]
+23. [Middle of the Linked List](https://github.com/brendondsouza/Grind75/blob/main/middle-of-the-linked-list.js)
+24. [Maximum Depth of Binary Tree](https://github.com/brendondsouza/Grind75/blob/main/maximum-depth-of-binary-tree.js)
+25. [Contains Duplicate](https://github.com/brendondsouza/Grind75/blob/main/contains-duplicates.js)
+26. [Insert Interval]
+27. [01 Matrix]
+28. [K Closest Points to Origin]
+29. [Longest Substring Without Repeating Characters]
+30. [3Sum]
 32. [Binary Tree Level Order Traversal]
 33. [Clone Graph]
 34. [Evaluate Reverse Polish Notation]
