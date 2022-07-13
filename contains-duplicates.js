@@ -30,7 +30,7 @@ Output: true
  * @return {boolean}
  */
  var containsDuplicate = function(nums) {
-
+//create a unique set and then use the spread operator to convert it into an array to be able to compare lengths 
   let unique = [...new Set(nums)]
   
   return unique.length !== nums.length
