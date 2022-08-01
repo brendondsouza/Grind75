@@ -29,3 +29,26 @@ Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
         }
     }
   };
+
+//optimized solution
+
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+var twoSum = function(nums, target) {
+    let prevValues = {}
+    
+    for(let i = 0; i < nums.length; i++){
+        let diff = target - nums[i]
+        let index2 = prevValues[diff]
+        if(index2 != null){
+            return [i, index2]
+        } else {
+            prevValues[nums[i]] = i
+        }
+        
+    }
+    
+};
