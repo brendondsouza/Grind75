@@ -28,7 +28,7 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 19. [Reverse Linked List](https://github.com/brendondsouza/Grind75/blob/main/reverse-linked-list.js)
 20. [Majority Element](https://github.com/brendondsouza/Grind75/blob/main/majority-element.js)
 21. [Add Binary](https://github.com/brendondsouza/Grind75/blob/main/add-binary.js)
-22. [Diameter of Binary Tree]
+22. [Diameter of Binary Tree](https://github.com/brendondsouza/Grind75/blob/main/depth-of-a-binary-tree.js)
 23. [Middle of the Linked List](https://github.com/brendondsouza/Grind75/blob/main/middle-of-the-linked-list.js)
 24. [Maximum Depth of Binary Tree](https://github.com/brendondsouza/Grind75/blob/main/maximum-depth-of-binary-tree.js)
 25. [Contains Duplicate](https://github.com/brendondsouza/Grind75/blob/main/contains-duplicates.js)
