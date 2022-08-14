@@ -44,6 +44,7 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 36. [Implement Trie (Prefix Tree)]
 37. [Coin Change](https://github.com/brendondsouza/Grind75/blob/main/coin-change.js)
 38. [Product of Array Except Self](https://github.com/brendondsouza/Grind75/blob/main/product-of-array-except-self.js)
+[Min Stack](https://github.com/brendondsouza/Grind75/blob/main/min-stack.js)
 39. [Validate Binary Search Tree]
 40. [Number of Islands]
 41. [Rotting Oranges]
