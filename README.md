@@ -37,15 +37,15 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 28. [K Closest Points to Origin]
 29. [Longest Substring Without Repeating Characters](https://github.com/brendondsouza/Grind75/blob/main/longest-substring-without-repeating-characters.js)
 30. [3Sum](https://github.com/brendondsouza/Grind75/blob/main/3-sum.js)
-32. [Binary Tree Level Order Traversal]
-33. [Clone Graph]
-34. [Evaluate Reverse Polish Notation]
-35. [Course Schedule]
-36. [Implement Trie (Prefix Tree)]
-37. [Coin Change](https://github.com/brendondsouza/Grind75/blob/main/coin-change.js)
-38. [Product of Array Except Self](https://github.com/brendondsouza/Grind75/blob/main/product-of-array-except-self.js)
-[Min Stack](https://github.com/brendondsouza/Grind75/blob/main/min-stack.js)
-39. [Validate Binary Search Tree]
+31. [Binary Tree Level Order Traversal]
+32. [Clone Graph]
+33. [Evaluate Reverse Polish Notation]
+34. [Course Schedule]
+35. [Implement Trie (Prefix Tree)]
+36. [Coin Change](https://github.com/brendondsouza/Grind75/blob/main/coin-change.js)
+37. [Product of Array Except Self](https://github.com/brendondsouza/Grind75/blob/main/product-of-array-except-self.js)
+38. [Min Stack](https://github.com/brendondsouza/Grind75/blob/main/min-stack.js)
+39. [Validate Binary Search Tree](https://github.com/brendondsouza/Grind75/blob/main/validate-binary-search-tree.js)
 40. [Number of Islands](https://github.com/brendondsouza/Grind75/blob/main/number-of-islands.js)
 41. [Rotting Oranges]
 42. [Search in Rotated Sorted Array]
@@ -55,7 +55,7 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 46. [Lowest Common Ancestor of a Binary Tree]
 47. [Time Based Key-Value Store]
 48. [Accounts Merge]
-49. [Sort Colors]
+49. [Sort Colors](https://github.com/brendondsouza/Grind75/blob/main/sort-colors.js)
 50. [Word Break]
 51. [Partition Equal Subset Sum]
 52. [String to Integer (atoi)]
@@ -63,9 +63,9 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 54. [Subsets]
 55. [Binary Tree Right Side View]
 56. [Longest Palindromic Substring]
-57. [Unique Paths]
+57. [Unique Paths](https://github.com/brendondsouza/Grind75/blob/main/unique-paths.js)
 58. [Construct Binary Tree from Preorder and Inorder Traversal]
-59. [Container With Most Water]
+59. [Container With Most Water](https://github.com/brendondsouza/Grind75/blob/main/container-with-most-water.js)
 60. [Letter Combinations of a Phone Number]
 61. [Word Search]
 62. [Find All Anagrams in a String]
