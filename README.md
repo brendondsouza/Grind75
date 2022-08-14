@@ -46,7 +46,7 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 38. [Product of Array Except Self](https://github.com/brendondsouza/Grind75/blob/main/product-of-array-except-self.js)
 [Min Stack](https://github.com/brendondsouza/Grind75/blob/main/min-stack.js)
 39. [Validate Binary Search Tree]
-40. [Number of Islands]
+40. [Number of Islands](https://github.com/brendondsouza/Grind75/blob/main/number-of-islands.js)
 41. [Rotting Oranges]
 42. [Search in Rotated Sorted Array]
 43. [Combination Sum]
