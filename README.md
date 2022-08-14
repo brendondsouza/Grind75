@@ -35,7 +35,7 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 26. [Insert Interval]
 27. [01 Matrix]
 28. [K Closest Points to Origin]
-29. [Longest Substring Without Repeating Characters]
+29. [Longest Substring Without Repeating Characters](https://github.com/brendondsouza/Grind75/blob/main/longest-substring-without-repeating-characters.js)
 30. [3Sum]
 32. [Binary Tree Level Order Traversal]
 33. [Clone Graph]
