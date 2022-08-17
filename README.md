@@ -39,7 +39,7 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 30. [3Sum](https://github.com/brendondsouza/Grind75/blob/main/3-sum.js)
 31. [Binary Tree Level Order Traversal]
 32. [Clone Graph]
-33. [Evaluate Reverse Polish Notation]
+33. [Evaluate Reverse Polish Notation](https://github.com/brendondsouza/Grind75/blob/main/evaluate-reverse-polish-notation.js)
 34. [Course Schedule]
 35. [Implement Trie (Prefix Tree)]
 36. [Coin Change](https://github.com/brendondsouza/Grind75/blob/main/coin-change.js)
