@@ -32,7 +32,7 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 23. [Middle of the Linked List](https://github.com/brendondsouza/Grind75/blob/main/middle-of-the-linked-list.js)
 24. [Maximum Depth of Binary Tree](https://github.com/brendondsouza/Grind75/blob/main/maximum-depth-of-binary-tree.js)
 25. [Contains Duplicate](https://github.com/brendondsouza/Grind75/blob/main/contains-duplicates.js)
-26. [Insert Interval]
+26. [Insert Interval](https://github.com/brendondsouza/Grind75/blob/main/insert-intervals.js)
 27. [01 Matrix]
 28. [K Closest Points to Origin]
 29. [Longest Substring Without Repeating Characters](https://github.com/brendondsouza/Grind75/blob/main/longest-substring-without-repeating-characters.js)
@@ -51,7 +51,7 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 42. [Search in Rotated Sorted Array]
 43. [Combination Sum]
 44. [Permutations]
-45. [Merge Intervals]
+45. [Merge Intervals](https://github.com/brendondsouza/Grind75/blob/main/merge-intervals.js)
 46. [Lowest Common Ancestor of a Binary Tree]
 47. [Time Based Key-Value Store]
 48. [Accounts Merge]
