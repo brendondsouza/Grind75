@@ -48,9 +48,9 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 39. [Validate Binary Search Tree](https://github.com/brendondsouza/Grind75/blob/main/validate-binary-search-tree.js)
 40. [Number of Islands](https://github.com/brendondsouza/Grind75/blob/main/number-of-islands.js)
 41. [Rotting Oranges]
-42. [Search in Rotated Sorted Array]
-43. [Combination Sum]
-44. [Permutations]
+42. [Search in Rotated Sorted Array](https://github.com/brendondsouza/Grind75/blob/main/search-in-rotated-sorted-array.js)
+43. [Combination Sum](https://github.com/brendondsouza/Grind75/blob/main/combination-sum.js)
+44. [Permutations](https://github.com/brendondsouza/Grind75/blob/main/permutations.js)
 45. [Merge Intervals](https://github.com/brendondsouza/Grind75/blob/main/merge-intervals.js)
 46. [Lowest Common Ancestor of a Binary Tree]
 47. [Time Based Key-Value Store]
