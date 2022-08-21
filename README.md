@@ -71,7 +71,7 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 62. [Find All Anagrams in a String]
 63. [Minimum Height Trees]
 64. [Task Scheduler]
-65. [LRU Cache]
+65. [LRU Cache](https://github.com/brendondsouza/Grind75/blob/main/LRU-cache.js)
 66. [Kth Smallest Element in a BST]
 67. [Minimum Window Substring]
 68. [Serialize and Deserialize Binary Tree]
