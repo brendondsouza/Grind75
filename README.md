@@ -33,7 +33,7 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 24. [Maximum Depth of Binary Tree](https://github.com/brendondsouza/Grind75/blob/main/maximum-depth-of-binary-tree.js)
 25. [Contains Duplicate](https://github.com/brendondsouza/Grind75/blob/main/contains-duplicates.js)
 26. [Insert Interval](https://github.com/brendondsouza/Grind75/blob/main/insert-intervals.js)
-27. [01 Matrix]
+27. [01 Matrix](https://github.com/brendondsouza/Grind75/blob/main/01-matrix.js)
 28. [K Closest Points to Origin]
 29. [Longest Substring Without Repeating Characters](https://github.com/brendondsouza/Grind75/blob/main/longest-substring-without-repeating-characters.js)
 30. [3Sum](https://github.com/brendondsouza/Grind75/blob/main/3-sum.js)
@@ -47,7 +47,7 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 38. [Min Stack](https://github.com/brendondsouza/Grind75/blob/main/min-stack.js)
 39. [Validate Binary Search Tree](https://github.com/brendondsouza/Grind75/blob/main/validate-binary-search-tree.js)
 40. [Number of Islands](https://github.com/brendondsouza/Grind75/blob/main/number-of-islands.js)
-41. [Rotting Oranges]
+41. [Rotting Oranges](https://github.com/brendondsouza/Grind75/blob/main/rotting-oranges.js)
 42. [Search in Rotated Sorted Array](https://github.com/brendondsouza/Grind75/blob/main/search-in-rotated-sorted-array.js)
 43. [Combination Sum](https://github.com/brendondsouza/Grind75/blob/main/combination-sum.js)
 44. [Permutations](https://github.com/brendondsouza/Grind75/blob/main/permutations.js)
