@@ -36,3 +36,21 @@ Output: true
   return unique.length !== nums.length
   
 };
+
+//better solution
+/**
+ * @param {number[]} nums
+ * @return {boolean}
+ */
+var containsDuplicate = function(nums) {
+    let map = {}
+    
+    for(const num of nums){
+        if(map[num]){
+            return true
+        } else{
+            map[num] = true
+        }
+    }
+return false
+};
