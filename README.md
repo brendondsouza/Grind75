@@ -57,7 +57,7 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 48. [Accounts Merge]
 49. [Sort Colors](https://github.com/brendondsouza/Grind75/blob/main/sort-colors.js)
 50. [Word Break]
-51. [Partition Equal Subset Sum]
+51. [Partition Equal Subset Sum](https://github.com/brendondsouza/Grind75/blob/main/partition-equal-subset-sum.js)
 52. [String to Integer (atoi)]
 53. [Spiral Matrix]
 54. [Subsets]
